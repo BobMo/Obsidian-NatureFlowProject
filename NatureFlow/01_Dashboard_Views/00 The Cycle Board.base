@@ -1,0 +1,21 @@
+views:
+  - type: kanban
+    name: Cycle View
+    filters:
+      and:
+        - file.folder == "02_Active_Projects"
+    groupBy:
+      property: biome_stage
+      direction: ASC
+    groupOrder:
+      - Fen
+      - - Forest
+      - - Tundra
+      - - Mountain
+      - - Desert
+      - - Field
+      - - Delta
+      - - Ocean
+    order:
+      - file.name
+    columnWidth: 200

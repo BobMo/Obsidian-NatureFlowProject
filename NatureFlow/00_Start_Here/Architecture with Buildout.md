@@ -1,0 +1,5 @@
+- **00_Start_Here:** A read-me note explaining the environmental conceit, the continuous loop, and the mechanics of dragging projects through the Kanban board.
+- **01_The_Cycle_Board:** The primary `.base` file grouped by the `biome_stage` property, serving as the central visual dashboard. 
+- **02_Active_Projects:** The folder where users generate their specific project notes.
+- **03_Templates:** A clean markdown template pre-loaded with the `biome_stage` YAML property, alongside tracking fields for daily energy or emotional environment variables.
+- **04_Biome_Definitions:** Reference notes defining the core cycle (Ocean to Delta) and the specific rules for the Tundra and Desert set-asides.
