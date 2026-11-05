@@ -6,6 +6,7 @@ biome_stage:
 energy_environment:
 start_date:
 ---
+![[MOUNTAIN_rohit-tandon-9wg5jCEPBsw-unsplash.png]]
 # The Mountain
 ## The Conceit
 The burst of effort that is itself a small cycle: effort to summit and the equal or even harder effort to descend from those heights (emotionally and physically). Water here is available some at early and late stages of the climb but is locked in snow and ice (no new ideas) the closer you get to the summit. Repeat the climb and descent as many times as needed to be able to build.

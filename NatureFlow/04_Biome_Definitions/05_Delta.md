@@ -6,6 +6,7 @@ biome_stage:
 energy_environment:
 start_date:
 ---
+![[DELTA_jordan-heath-4z_SYrG5mgA-unsplash.png]]
 # The Delta
 ## The Conceit
 The waters joined together in the [[04_Field|Field]] start to spread back out again, interacting in swamps and deltas on the way to the [[06_Ocean|Ocean]]. This is the phase where the project is exposed, tentatively and with constraint and care, to the feedback of the public consciousness. 
@@ -21,3 +22,4 @@ Treating the Delta like the Ocean by abandoning constraints too early, or treati
 - [ ] A constrained public trial (soft launch, rehearsal, beta test) is completed.
 - [ ] Public reaction/interaction is measured and finalized.
 - [ ] The project is completely finalized with zero remaining revisions.
+

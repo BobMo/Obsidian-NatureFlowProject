@@ -6,6 +6,7 @@ biome_stage:
 energy_environment:
 start_date:
 ---
+![[TUNDRA_greg-garnhart-14JPW_P2-Cs-unsplash.png]]
 # The Tundra (upstream hold)
 # The Conceit
 Water is in a frozen state (ideas are inaccessible). Projects that are too large to be confidently moved up the mountain, or too loose, or too imposing are set aside to roam apart around the Tundra without adding ideas or increasing (due to scant resources available in the Tundra). Everything on this side (Fen, Forest, Mountain) can move things into the Tundra, and from Tundra, it can go to anything back on this side.

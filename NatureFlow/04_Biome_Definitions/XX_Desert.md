@@ -6,6 +6,7 @@ biome_stage:
 energy_environment:
 start_date:
 ---
+![[DESERT_quilia-C8HVCiuu8c0-unsplash.png]]
 # The Desert (Downstream hold)
 ## The Conceit
 There is a water shadow on the far side of a mountain, and projects that lose traction or need a time out on this side of the Mountain, projects are parked in the Desert.

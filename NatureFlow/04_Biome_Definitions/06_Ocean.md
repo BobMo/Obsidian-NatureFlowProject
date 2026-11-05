@@ -6,6 +6,7 @@ biome_stage:
 energy_environment:
 start_date:
 ---
+![[OCEAN_ant-rozetsky-q-DJ9XhKkhA-unsplash.png]]
 # The Ocean
 ## The Conceit
 The project is released to the world and the creator lets it go. The novel is launched. The film is released widely in theaters. The sculpture makes its debut at Burning Man. No changes from this point out, no pulling back. The waters that bore the project throughout the cycle are now fully comingled with the waters of the collective consciousness and the audience now carries the project forward.

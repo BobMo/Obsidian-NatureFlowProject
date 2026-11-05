@@ -6,6 +6,7 @@ biome_stage:
 energy_environment:
 start_date:
 ---
+![[FOREST_boudewijn-huysmans-T0Gq3Ua1qpw-unsplash.png]]
 # The Forest
 ## The Conceit
 Water (ideas) flows through the space but is much more constrained. Expansiveness happens in verticals: canopy, trunks, floor, and underfloor. 
