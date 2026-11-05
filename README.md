@@ -25,6 +25,17 @@ Linear productivity assumes a constant uphill climb. The Organic Project Cycle t
 *   **Master Project Template:** Includes built-in diagnostic checklists to audit a project's readiness before moving it to the next biome.
 *   **Automated AMWAP Tracking:** Uses Dataview to aggregate an "As Many Wins As Possible" log, pulling completed `#win` tags from all active projects into a single, real-time dashboard.
 
+## Externalities in Vault
+
+This vault utilizes these Community Plugins:
+
+* Dataview
+* Templater
+
+This vault utilizes this Theme (not a requirement):
+
+* Blue Topaz
+
 ## Installation
 
 1. Download the latest release `.zip` from the [Releases](link-to-releases) page, or clone this repository.
