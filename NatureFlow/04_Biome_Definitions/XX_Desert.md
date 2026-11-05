@@ -6,14 +6,15 @@ biome_stage:
 energy_environment:
 start_date:
 ---
-
-# The Conceit
-A brief explanation of the hydrological environment (e.g., "The Fen is a nutrient-rich, stagnant wetland where ideas organically ferment").
-# The Practical Objective
-The concrete project management translation (e.g., "This is the brainstorming and resource-gathering phase").
-# How to Engage
-Strict boundaries for this specific stage. For example, the _Mountain_ file would explicitly state: "No new inputs. No scope changes. Pure execution."
-# Beware This
-The common psychological or operational failure point of this stage (e.g., "Getting stuck in the Fen because you are waiting for perfect conditions to start building").
-# When to Move On
-The specific, binary conditions that must be met before a project card can be dragged to the next column.
+# The Desert (Downstream hold)
+## The Conceit
+There is a water shadow on the far side of a mountain, and projects that lose traction or need a time out on this side of the Mountain, projects are parked in the Desert.
+## The Objective
+A parking lot for downstream projects suffering from stalled momentum, post-sprint burnout, or critical flaws discovered in the Field/Delta.
+## How to Engage
+Allow the project to dry out to better show where the core ideas are. Step away to recover perspective or energy before attempting to force it forward.
+## Beware This
+Letting a viable project die of dehydration out of fear of public exposure ([[05_Delta|Delta]]/[[06_Ocean|Ocean]]). 
+## When to Move On
+- [ ] *To re-enter flow:* Traction is recovered, and the project is ready to climb new [[03_Mountain|Mountains]] or move forward to the [[04_Field|Field]] or the [[05_Delta|Delta]].
+- [ ] *To reboot:* The core premise doesn't work in its current state; cycle all the way back to the [[01_Fen|Fen]] or move current state to the `Fen_Resources` folder where it can become fodder for new projects.

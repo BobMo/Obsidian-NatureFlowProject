@@ -6,14 +6,16 @@ biome_stage:
 energy_environment:
 start_date:
 ---
-
-# The Conceit
-A brief explanation of the hydrological environment (e.g., "The Fen is a nutrient-rich, stagnant wetland where ideas organically ferment").
-# The Practical Objective
-The concrete project management translation (e.g., "This is the brainstorming and resource-gathering phase").
+# The Forest
+## The Conceit
+Water (ideas) flows through the space but is much more constrained. Expansiveness happens in verticals: canopy, trunks, floor, and underfloor. 
+# The Objective
+Prototypes are expanded on and are structurally/strategically prepared for the sprint/focus time of the climb up the Mountain.
 # How to Engage
-Strict boundaries for this specific stage. For example, the _Mountain_ file would explicitly state: "No new inputs. No scope changes. Pure execution."
+Constraints must be defined. Establish the vertical limits of the project to prepare it for deep work.
 # Beware This
-The common psychological or operational failure point of this stage (e.g., "Getting stuck in the Fen because you are waiting for perfect conditions to start building").
+Over-architecting the underfloor (overthinking or overworking). Staying too long in this phase rather than using it as a platform to leap from. Endlessly planning dependencies and structures instead of stepping up to the execution phase. 
 # When to Move On
-The specific, binary conditions that must be met before a project card can be dragged to the next column.
+- [ ] Scope constraints are finalized and documented. 
+- [ ] All dependencies and external inputs are secured. 
+- [ ] The first actionable task for the sprint is explicitly defined.

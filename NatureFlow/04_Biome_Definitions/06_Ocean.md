@@ -6,14 +6,16 @@ biome_stage:
 energy_environment:
 start_date:
 ---
-
-# The Conceit
-A brief explanation of the hydrological environment (e.g., "The Fen is a nutrient-rich, stagnant wetland where ideas organically ferment").
-# The Practical Objective
-The concrete project management translation (e.g., "This is the brainstorming and resource-gathering phase").
-# How to Engage
-Strict boundaries for this specific stage. For example, the _Mountain_ file would explicitly state: "No new inputs. No scope changes. Pure execution."
-# Beware This
-The common psychological or operational failure point of this stage (e.g., "Getting stuck in the Fen because you are waiting for perfect conditions to start building").
-# When to Move On
-The specific, binary conditions that must be met before a project card can be dragged to the next column.
+# The Ocean
+## The Conceit
+The project is released to the world and the creator lets it go. The novel is launched. The film is released widely in theaters. The sculpture makes its debut at Burning Man. No changes from this point out, no pulling back. The waters that bore the project throughout the cycle are now fully comingled with the waters of the collective consciousness and the audience now carries the project forward.
+## The Objective
+Final release, integration, and letting go.
+## How to Engage
+Surrender control. The project no longer belongs exclusively to you; it belongs to the audience.
+## Beware This
+Attempting to pull the water back upstream. Obsessively tweaking, patching, or defending a project after it has been fully released. Trying to control how the audience engages with the work.
+## When to Move On
+- [ ] The project is fully released.
+- [ ] Control has been formally surrendered to the collective consciousness.
+- [ ] The project file is moved out of `02_Active_Projects` to your `05_Ocean_Archive`.

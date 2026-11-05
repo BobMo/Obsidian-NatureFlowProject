@@ -18,4 +18,4 @@ views:
       - - Ocean
     order:
       - file.name
-    columnWidth: 200
+    columnWidth: 250
