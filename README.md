@@ -1,6 +1,6 @@
 # Obsidian-NatureFlowProject (Fen Release 0.1)
 
-A cyclical, hydrology-inspired project management framework built natively for Obsidian. 
+A cyclical, hydrology-inspired project management framework built as an Obsidian vault. 
 
 This is a **Fen Release** of the vault. In the methodology of this framework, the Fen is a nutrient-rich wetland where ideas ferment, prototype, and take shape. As a "Fen" release, this vault's mechanical infrastructure is functional and ready for use, but the aesthetic styling and documentation are actively evolving. 
 
